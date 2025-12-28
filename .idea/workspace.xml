@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b19545cc-a89f-4671-82b2-cf72eb8ce48c" name="Changes" comment="9th table using printf" />
+    <list default="true" id="b19545cc-a89f-4671-82b2-cf72eb8ce48c" name="Changes" comment="9th table using printf">
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab067_To_Three_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_ConditionalStatements/Lab068_TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_ConditionalStatements/Lab069_FizzBuzz_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +50,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab001_HelloWorld.executor": "Run",
     "Application.Lab002_Printf.executor": "Run",
     "Application.Lab002_printf.executor": "Run",
+    "Application.Lab067_To_Three_Max.executor": "Run",
+    "Application.Lab068_TriangelClassifier.executor": "Run",
+    "Application.Lab069_FizzBuzz_Test.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -54,10 +63,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab002_printf">
-    <configuration name="Lab002_Printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Basics.Lab002_Printf" />
+  <component name="RunManager" selected="Application.Lab069_FizzBuzz_Test">
+    <configuration name="Lab001_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.Lab001_HelloWorld" />
       <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_01_Java_Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,10 +90,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab067_To_Three_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_TernaryOperator.Lab067_To_Three_Max" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_TernaryOperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab068_TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_ConditionalStatements.Lab068_TriangleClassifier" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab069_FizzBuzz_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_ConditionalStatements.Lab069_FizzBuzz_Test" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_ConditionalStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab069_FizzBuzz_Test" />
+        <item itemvalue="Application.Lab068_TriangleClassifier" />
+        <item itemvalue="Application.Lab067_To_Three_Max" />
         <item itemvalue="Application.Lab002_printf" />
-        <item itemvalue="Application.Lab002_Printf" />
+        <item itemvalue="Application.Lab001_HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766074914398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="9th table using printf">
+      <option name="closed" value="true" />
+      <created>1766075165295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766075165295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
