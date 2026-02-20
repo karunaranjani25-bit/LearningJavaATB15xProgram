@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b19545cc-a89f-4671-82b2-cf72eb8ce48c" name="Changes" comment="10th Feb 2026">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJavaATB15xProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_01_ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_02_EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_03_ExplicitTypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_04_MaxOfTwo_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_05_PNOrzero_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_06_DayOfWeek_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_07_SimpleCalcualtor_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_08_MonthNameFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_09_PrintNum_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_10_PrintEvenNum_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_11_ReverseNum_Dowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_12_BreakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_13_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_11thJan_2026/Ex_14_SecondHighestinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_18thJan_2026/Ex01_CharCountwithoutspace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_18thJan_2026/Ex01_Charcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_18thJan_2026/Ex02_strLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_18thJan_2026/Ex_03_toUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_18thJan_2026/Ex_04_comparestrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam_18thJan_2026/Ex_05_Stringreverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab001_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab002_printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab003_No_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab004_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab005_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab006_Multi_Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab007_SP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab008_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab009_Keywords_Identifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab010_Keywords_Identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab011_Basic_Class_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab012_Common_Math_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab013_Println_vs_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab014_Main_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab015_Main_method_Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab016_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab017_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab018_Variables_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab019_IQ_QnA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab020_IQ_QnA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab021_Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab022_NumericDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab023_Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab024_printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab025_Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab026_Localvariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab027_Multiple_Variablenames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variables_Datatypes/Lab028_FinalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab029_Literals_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab030_Literals_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab031_Boolean_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab033_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab034_char_Literal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab035_NonPrimitive_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab035_String_null.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab036_Operators_Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab037_Operators_Arithmetic_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab038_Unary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab039_Operator_Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab041_Logical_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Interview_Concat_Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab043_Interview_Concat_Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab044_BODMAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab045_EqualS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab046_InterviewQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab047_OR_AND_GATE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab048_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab049_All_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab050_New_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab051_InstanceOf_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab053_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab054_Interview_Char_INT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab055_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab056_Interview_Short_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab057_TypeCasting_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab058_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab059_TypeCasting_Narrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab060_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab061_TypCasting_Used.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab61_Extra_Example_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab062_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab063_Extra_Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab063_TO_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab064_Interview_Ready_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab065_TO_INTERVIEW_Max_Two_TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab066_TO_Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab067_To_Three_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab068_Real_Age_Classification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_TernaryOperator/Lab069_CLI_INPUTS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab070_ID_Op_PRE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab071_POST_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab072_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab073_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab074_Advance_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab075_Exp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab076_Exp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab077_De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_OP/Lab078_De_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab079_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab080_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab081_If_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab082_If_Else_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab083_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab_IF_ELSEIF_ELSE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab_Multi_UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab084_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab085_Switch_Without_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab086_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab087_Real_Switch_Automation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab088_INTERVIEW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab089_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab090_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab091_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab092_INTERVIEW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab093_JDK13Above.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab094_JDK13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab095_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch/Lab096_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab097_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab098_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab099_For_LOOP_VAR_NAME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab100_For_Loop_Var_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab101_For_Loop_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab102_For_No_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab103_For_If_LOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_strings/Lab_StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab163_2D_Right_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab164_2nd_highest_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab164_Right_Aligned_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab165_PyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Task_ConditionalStatements/Lab068_TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Task_ConditionalStatements/Lab069_FizzBuzz_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Task_ConditionalStatements/Lab070_GradeCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karunaranjani25-bit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/karunaranjani25-bit/LearningJavaATB15xProgram.git&quot;,
+    &quot;accountId&quot;: &quot;da5b02fe-2445-4fee-979e-4e02ed7f9c75&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ex_01_Java_Basics/Lab001_HelloWorld.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="36gBPvlYwhMopkwDfuVYZzpIdLJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex01_CharCountwithoutspace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex01_Charcount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex02_strLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_01_ArithmeticOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_02_EvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_03_ExplicitTypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_03_toUppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_04_MaxOfTwo_TO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_04_comparestrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_05_PNOrzero_TO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_05_Stringreverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_06_DayOfWeek_Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_07_SimpleCalcualtor_Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_08_MonthNameFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_09_PrintNum_DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_10_PrintEvenNum_DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_11_ReverseNum_Dowhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_12_BreakExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_13_Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_14_SecondHighestinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_Printf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_printf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003_No_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006_Multi_Comment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007_SP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab008_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009_Keywords_Identifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010_Keywords_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab011_Basic_Class_Name.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012_Common_Math_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab013_Println_vs_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab016_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab017_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab018_Variables_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab019_IQ_QnA1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab020_IQ_QnA2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab020_Literals_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab022_NumericDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab023_Byte.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab024_printf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab025_Constants.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab026_Localvariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab027_Multiple_Variablenames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab028_FinalExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab031_Boolean_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab032_Literals_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab033_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab034_char_Literal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab035_NonPrimitive_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab035_Primitive_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab035_String_null.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab036_Operators_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab037_Operators_Arithmetic_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab038_Unary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab039_Operator_Modulus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab040_Relational_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab041_Logical_Operators.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab042_Interview_Concat_Plus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab043_Interview_Concat_Plus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab044_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab045_EqualS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab046_InterviewQues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab047_OR_AND_GATE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab048_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab049_All_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab050_New_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab051_InstanceOf_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab053_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab054_Interview_Char_INT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab055_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab056_Interview_Short_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab057_TypeCasting_0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab059_TypeCasting_Narrowing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab060_TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab061_TypCasting_Used.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab062_TO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab063_Extra_Content.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab063_TO_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab064_Interview_Ready_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab065_TO_INTERVIEW_Max_Two_TO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab066_TO_Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab067_To_Three_Max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab068_Real_Age_Classification.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab068_TriangelClassifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab069_CLI_INPUTS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab069_FizzBuzz_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab070_GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab071_POST_ID.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab072_ID.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab073_ID.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab074_Advance_ID.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab075_Exp1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab076_Exp2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab077_De.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab078_De_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab079_If.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab080_If.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab081_If_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab082_If_Else_Scanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab083_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab084_Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab085_Switch_Without_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab087_Real_Switch_Automation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab088_INTERVIEW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab089_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab090_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab091_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab092_INTERVIEW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab093_JDK13Above.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab094_JDK13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab095_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab096_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab097_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab098_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab100_For_Loop_Var_Name.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab101_For_Loop_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab163_2D_Right_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab164_2nd_highest_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab164_Right_Aligned_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab165_PyramidPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab61_Extra_Example_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_IF_ELSEIF_ELSE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_Multi_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Ex_05_Stringreverse">
+    <configuration name="Ex01_Charcount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_18thJan_2026.Ex01_Charcount" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam_18thJan_2026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex02_strLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_18thJan_2026.Ex02_strLength" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam_18thJan_2026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_03_toUppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_18thJan_2026.Ex_03_toUppercase" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam_18thJan_2026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_04_comparestrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_18thJan_2026.Ex_04_comparestrings" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam_18thJan_2026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_05_Stringreverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_18thJan_2026.Ex_05_Stringreverse" />
+      <module name="LearningJavaATB15xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam_18thJan_2026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab079_If" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab079_If" />
+      <module name="LearningJavaATB15xProgram" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lab079_If" />
+      <item itemvalue="Application.Ex01_Charcount" />
+      <item itemvalue="Application.Ex02_strLength" />
+      <item itemvalue="Application.Ex_03_toUppercase" />
+      <item itemvalue="Application.Ex_04_comparestrings" />
+      <item itemvalue="Application.Ex_05_Stringreverse" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex_05_Stringreverse" />
+        <item itemvalue="Application.Ex_04_comparestrings" />
+        <item itemvalue="Application.Ex_03_toUppercase" />
+        <item itemvalue="Application.Ex02_strLength" />
+        <item itemvalue="Application.Ex01_Charcount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b19545cc-a89f-4671-82b2-cf72eb8ce48c" name="Changes" comment="" />
+      <created>1765418314478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765418314478</updated>
+    </task>
+    <task id="LOCAL-00001" summary="9th table using printf">
+      <option name="closed" value="true" />
+      <created>1766074914398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766074914398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9th table using printf">
+      <option name="closed" value="true" />
+      <created>1766075165295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766075165295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9th table using printf" />
+    <MESSAGE value="10th Jan" />
+    <MESSAGE value="10th Jan 2026" />
+    <MESSAGE value="28th Jan 2026" />
+    <MESSAGE value="10th Feb 2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="10th Feb 2026" />
+  </component>
+</project>
